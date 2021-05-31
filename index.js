@@ -1,6 +1,6 @@
 require('dotenv').config()
-const crawler = require('./crawler')
-const handler = require('./handler')
+const crawler = require('./src/crawler')
+const handler = require('./src/handler')
 
 async function start() {
     await crawler.extract(process.env.BASE_DATA_URI)
