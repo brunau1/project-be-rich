@@ -1,0 +1,842 @@
+[
+  {
+    "number": 1,
+    "columns": [
+      232,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 232,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 2,
+    "columns": [
+      218,
+      22,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 240,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 3,
+    "columns": [
+      180,
+      36,
+      1,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 217,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 4,
+    "columns": [
+      200,
+      53,
+      4,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 257,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 5,
+    "columns": [
+      172,
+      75,
+      13,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 260,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 6,
+    "columns": [
+      149,
+      82,
+      11,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 242,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 7,
+    "columns": [
+      146,
+      57,
+      21,
+      0,
+      0,
+      0
+    ],
+    "totalAppear": 224,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 8,
+    "columns": [
+      127,
+      89,
+      17,
+      2,
+      0,
+      0
+    ],
+    "totalAppear": 235,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 9,
+    "columns": [
+      109,
+      92,
+      17,
+      3,
+      0,
+      0
+    ],
+    "totalAppear": 221,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 10,
+    "columns": [
+      117,
+      114,
+      31,
+      8,
+      0,
+      0
+    ],
+    "totalAppear": 270,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 0
+  },
+  {
+    "number": 11,
+    "columns": [
+      80,
+      106,
+      48,
+      5,
+      2,
+      0
+    ],
+    "totalAppear": 241,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 12,
+    "columns": [
+      81,
+      97,
+      42,
+      9,
+      1,
+      0
+    ],
+    "totalAppear": 230,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 13,
+    "columns": [
+      64,
+      117,
+      46,
+      11,
+      0,
+      0
+    ],
+    "totalAppear": 238,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 14,
+    "columns": [
+      57,
+      89,
+      66,
+      11,
+      1,
+      0
+    ],
+    "totalAppear": 224,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 15,
+    "columns": [
+      56,
+      90,
+      47,
+      12,
+      2,
+      0
+    ],
+    "totalAppear": 207,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 16,
+    "columns": [
+      49,
+      119,
+      61,
+      16,
+      1,
+      0
+    ],
+    "totalAppear": 246,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 17,
+    "columns": [
+      56,
+      90,
+      77,
+      23,
+      2,
+      0
+    ],
+    "totalAppear": 248,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 18,
+    "columns": [
+      34,
+      102,
+      65,
+      32,
+      4,
+      0
+    ],
+    "totalAppear": 237,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 19,
+    "columns": [
+      32,
+      75,
+      82,
+      29,
+      4,
+      0
+    ],
+    "totalAppear": 222,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 20,
+    "columns": [
+      34,
+      78,
+      78,
+      31,
+      9,
+      0
+    ],
+    "totalAppear": 230,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 21,
+    "columns": [
+      21,
+      63,
+      74,
+      39,
+      10,
+      0
+    ],
+    "totalAppear": 207,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 22,
+    "columns": [
+      22,
+      64,
+      66,
+      42,
+      13,
+      1
+    ],
+    "totalAppear": 208,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 23,
+    "columns": [
+      23,
+      85,
+      94,
+      41,
+      14,
+      0
+    ],
+    "totalAppear": 257,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 24,
+    "columns": [
+      16,
+      63,
+      99,
+      60,
+      8,
+      2
+    ],
+    "totalAppear": 248,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 25,
+    "columns": [
+      20,
+      51,
+      74,
+      54,
+      20,
+      2
+    ],
+    "totalAppear": 221,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 26,
+    "columns": [
+      15,
+      40,
+      80,
+      46,
+      11,
+      1
+    ],
+    "totalAppear": 193,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 27,
+    "columns": [
+      8,
+      76,
+      73,
+      69,
+      24,
+      3
+    ],
+    "totalAppear": 253,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 1
+  },
+  {
+    "number": 28,
+    "columns": [
+      10,
+      47,
+      105,
+      60,
+      27,
+      5
+    ],
+    "totalAppear": 254,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 29,
+    "columns": [
+      8,
+      49,
+      82,
+      75,
+      27,
+      4
+    ],
+    "totalAppear": 245,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 30,
+    "columns": [
+      6,
+      31,
+      90,
+      81,
+      39,
+      4
+    ],
+    "totalAppear": 251,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 31,
+    "columns": [
+      7,
+      32,
+      81,
+      65,
+      35,
+      4
+    ],
+    "totalAppear": 224,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 2
+  },
+  {
+    "number": 32,
+    "columns": [
+      3,
+      30,
+      70,
+      86,
+      41,
+      9
+    ],
+    "totalAppear": 239,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 33,
+    "columns": [
+      4,
+      23,
+      67,
+      100,
+      57,
+      8
+    ],
+    "totalAppear": 259,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 34,
+    "columns": [
+      1,
+      16,
+      76,
+      93,
+      50,
+      16
+    ],
+    "totalAppear": 252,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 35,
+    "columns": [
+      3,
+      16,
+      60,
+      96,
+      55,
+      17
+    ],
+    "totalAppear": 247,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 36,
+    "columns": [
+      1,
+      21,
+      59,
+      81,
+      67,
+      14
+    ],
+    "totalAppear": 243,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 37,
+    "columns": [
+      0,
+      19,
+      57,
+      98,
+      55,
+      22
+    ],
+    "totalAppear": 251,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 38,
+    "columns": [
+      1,
+      8,
+      49,
+      86,
+      70,
+      24
+    ],
+    "totalAppear": 238,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 39,
+    "columns": [
+      1,
+      6,
+      37,
+      88,
+      69,
+      21
+    ],
+    "totalAppear": 222,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 40,
+    "columns": [
+      0,
+      12,
+      42,
+      81,
+      73,
+      19
+    ],
+    "totalAppear": 227,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 3
+  },
+  {
+    "number": 41,
+    "columns": [
+      1,
+      9,
+      26,
+      91,
+      94,
+      28
+    ],
+    "totalAppear": 249,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 42,
+    "columns": [
+      0,
+      4,
+      37,
+      73,
+      111,
+      36
+    ],
+    "totalAppear": 261,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 43,
+    "columns": [
+      1,
+      5,
+      29,
+      76,
+      98,
+      38
+    ],
+    "totalAppear": 247,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 44,
+    "columns": [
+      0,
+      6,
+      27,
+      76,
+      83,
+      51
+    ],
+    "totalAppear": 243,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 45,
+    "columns": [
+      0,
+      1,
+      20,
+      53,
+      106,
+      52
+    ],
+    "totalAppear": 232,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 46,
+    "columns": [
+      1,
+      1,
+      18,
+      69,
+      98,
+      46
+    ],
+    "totalAppear": 233,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 47,
+    "columns": [
+      0,
+      3,
+      15,
+      58,
+      88,
+      64
+    ],
+    "totalAppear": 228,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 48,
+    "columns": [
+      0,
+      2,
+      9,
+      35,
+      89,
+      80
+    ],
+    "totalAppear": 215,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 49,
+    "columns": [
+      0,
+      0,
+      5,
+      36,
+      97,
+      103
+    ],
+    "totalAppear": 241,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 50,
+    "columns": [
+      1,
+      0,
+      10,
+      42,
+      91,
+      93
+    ],
+    "totalAppear": 237,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 51,
+    "columns": [
+      0,
+      1,
+      3,
+      29,
+      108,
+      105
+    ],
+    "totalAppear": 246,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 4
+  },
+  {
+    "number": 52,
+    "columns": [
+      0,
+      0,
+      3,
+      30,
+      96,
+      111
+    ],
+    "totalAppear": 240,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 53,
+    "columns": [
+      0,
+      0,
+      1,
+      21,
+      100,
+      147
+    ],
+    "totalAppear": 269,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 54,
+    "columns": [
+      0,
+      0,
+      1,
+      21,
+      81,
+      148
+    ],
+    "totalAppear": 251,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 55,
+    "columns": [
+      0,
+      0,
+      0,
+      8,
+      64,
+      129
+    ],
+    "totalAppear": 201,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 56,
+    "columns": [
+      0,
+      0,
+      1,
+      6,
+      61,
+      173
+    ],
+    "totalAppear": 241,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 57,
+    "columns": [
+      0,
+      0,
+      0,
+      8,
+      55,
+      161
+    ],
+    "totalAppear": 224,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 58,
+    "columns": [
+      0,
+      0,
+      0,
+      2,
+      36,
+      197
+    ],
+    "totalAppear": 235,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 59,
+    "columns": [
+      0,
+      0,
+      0,
+      0,
+      20,
+      208
+    ],
+    "totalAppear": 228,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  },
+  {
+    "number": 60,
+    "columns": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      221
+    ],
+    "totalAppear": 221,
+    "isTheMostFrequent": false,
+    "mostFrequentColumn": 5
+  }
+]
